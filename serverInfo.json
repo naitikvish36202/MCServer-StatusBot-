@@ -1,0 +1,8 @@
+{
+  "DISCORD_SERVER_ID": {
+    "channelId": "STATUS_CHANNEL_ID",
+    "setupComplete": true,
+    "messageId": ""
+  },
+  "miningChannelId": ""
+}
